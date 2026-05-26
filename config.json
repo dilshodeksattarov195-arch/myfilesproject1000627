@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterrync",
+        "uuid": 2371941,
+        "checksum": "rfn1rg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
